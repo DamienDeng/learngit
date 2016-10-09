@@ -16,4 +16,6 @@ Git
 \pard\pardeftab720\partightenfactor0
 \cf2 \cb3 Creating a 
 \f1\b \cf4 new
-\f0\b0 \cf2  branch is quick.}
+\f0\b0 \cf2  branch is quick 
+\f1\b \cf4 AND
+\f0\b0 \cf2  simple.}
