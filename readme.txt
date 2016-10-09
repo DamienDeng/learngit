@@ -13,9 +13,9 @@ Git
 Git 
 \f1\b \cf4 is
 \f0\b0 \cf2  free software.\
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 Creating a 
+Creating a 
 \f1\b \cf4 new
 \f0\b0 \cf2  branch is quick 
 \f1\b \cf4 and
-\f0\b0 \cf2  simple.}
+\f0\b0 \cf2  simple.\
+simple}
